@@ -4,4 +4,7 @@
 __pycache__
 venv
 *.csv
+*.json
+*.tsv
+*.xlsx
 
